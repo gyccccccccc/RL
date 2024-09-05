@@ -1,4 +1,4 @@
 highway-env==1.8.2
 gymnasium==0.29.1
-stable-baseline3==2.3.2
+stable-baselines3[extra]
 gym
