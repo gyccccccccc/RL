@@ -1,0 +1,5 @@
+python==3.8
+highway-env==1.8.2
+gymnasium==0.29.1
+stable-baseline3[extra]
+gym
