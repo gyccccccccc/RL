@@ -119,6 +119,7 @@ pip install gymnasium==0.29.1
 ### 2.2 具体步骤
 
 #### 2.2.1 模型训练
+```
 
 train (env_name, total_timesteps=20000, save_path="highway_dqn/model")
 
