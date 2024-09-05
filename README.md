@@ -185,7 +185,6 @@ evaluate(env_name, trained_model)
 # 模型可视化
 
 visualize(env_name, trained_model, step_num=100)
-
 ```
 仿真环境如下图：
 
@@ -204,6 +203,5 @@ visualize(env_name, trained_model, step_num=100)
 <p align="center">
   <img src="utils/img/reward_demo.png">
 </p>
-```
 
 # highway_RL
