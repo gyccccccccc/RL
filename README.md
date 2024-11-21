@@ -1,3 +1,5 @@
+# OnSite学习中心-决策-DQN
+
 ## 1 算法介绍
 
 此项目采用经典的强化学习算法（ DQN（Deep Q-Network）算法）实现自动驾驶车辆在高速公路（highway）上的决策任务。
@@ -205,4 +207,4 @@ visualize(env_name, trained_model, step_num=100)
   <img src="utils/img/reward_demo.png">
 </p>
 
-# highway_RL
+
